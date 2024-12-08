@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "d:\\JAVA\\libs_mysql\\mysql-connector-java-8.0.29\\mysql-connector-java-8.0.29.jar",
+    "d:\\JAVA\\lisbs_jfreechart\\jcommon-1.0.23.jar",
+    "d:\\JAVA\\lisbs_jfreechart\\jfreechart-1.0.19.jar"
+  ]
+}
